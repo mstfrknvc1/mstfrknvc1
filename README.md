@@ -50,6 +50,3 @@ GitHub üzerindeki dil kullanım oranlarını (hangi dili yüzde kaç oranında 
 ---
 
 ## 🔋 Host: `Tardix`
-- **CPU/GPU:** Intel / NVIDIA RTX 4060 (Dell G16)
-- **Current OS:** CachyOS / Debian (Dual/Multi-Boot)
-- **Focus:** TÜBİTAK 2209-A Başvurusu & Ulusal Staj Programı
